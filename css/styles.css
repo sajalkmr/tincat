@@ -31,7 +31,7 @@ h3 {
 }
 
 p {
-  color: #8f8f8f;
+  color:
   font-weight: 500;
 }
 
@@ -119,7 +119,15 @@ p {
 
 
 #pricing {
+  background-color: #ef8172;
 
+
+}
+
+.pricing-intro {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .cat-toes {
@@ -129,6 +137,11 @@ p {
 
 .catss {
   padding-right: 5%;
-  padding-left: 040%;
-  padding-top: 0%;
+  padding-left: 2%;
+
+
+}
+
+#footer {
+  background-color: #f4a460;
 }
